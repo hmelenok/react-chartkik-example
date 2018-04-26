@@ -1,7 +1,5 @@
-# React + D3 ftw !
+# React + Chartkick (Chart.js)
 
-* Webpack + React + D3
-* Custom design of bar charts
-* Example of configuration from [d3-explorer](https://github.com/artyomtrityak/d3-explorer)
+* Webpack + React + Chartkick(Chart.js adapter)
 
 TODO: [![Showcase](/screenshot/showcase.gif)](/screenshot/showcase.gif)
